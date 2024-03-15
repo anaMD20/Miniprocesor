@@ -1,0 +1,12 @@
+Task 1:
+
+Numarul dat l-am scris in baza 2 sub forma de biti.
+Aceasta scriere am realizat-o intr-un vector de caractere. Pentru a calcula N-ul am lucrat cu primii trei biti.
+Dupa ce am aflat numarul de instructiuni(N) am gasit operatiile ce urmeaza a fi executate, acestea fiind 
+reprezentate pe N*2 biti.
+La final am lucrat cu ultimii 4 biti pentru a calcula dimensiunea unui operand .
+
+Task 2:
+
+Am prelucrat numerele citite prin intermediul bitilor. Operanzii i-am memorat intr-un vector.
+Am calculat rezultatul conform operatiilor si operanzilor obtinuti.
